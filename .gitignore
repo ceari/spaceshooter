@@ -1,0 +1,12 @@
+Debug/source
+Debug/game
+Debug/*.so
+Release/source
+Release/game
+Release/*.so
+data
+docs
+win32
+.cproject
+.project
+*~
